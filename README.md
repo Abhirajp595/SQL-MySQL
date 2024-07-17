@@ -2,7 +2,7 @@
 ScienceQtech Employee Performance Mapping.
 
 
-Problem Statement
+Problem Statement.
 
 
 ScienceQtech is a startup that works in the Data Science field. ScienceQtech 
